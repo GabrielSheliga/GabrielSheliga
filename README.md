@@ -8,7 +8,7 @@ Meu nome é Gabriel Sheliga
 
    ### Você pode entrar em contato com migo 📬
 
-   gabriel.sheliga@gmail.com
+ gabrielfsheliga@gmail.com
 
    ### Instagram 📷
 
