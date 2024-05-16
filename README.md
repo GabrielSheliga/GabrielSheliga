@@ -3,7 +3,7 @@
 Meu nome é Gabriel Sheliga
 
  - Estou estudando na Plataforma [Alura](https://alura.com.br)
- - Estou desenvolvendo na linguagem JavaScript.
+ - Estou desenvolvendo na linguagem Html & Css.
  - Ultilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
 
    ### Você pode entrar em contato com migo 📬
